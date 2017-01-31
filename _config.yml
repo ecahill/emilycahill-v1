@@ -1,3 +1,5 @@
 name: Flex
-markdown: redcarpet
-pygments: true
+markdown: kramdown
+pygments: false
+highlighter: rouge
+baseurl: ecahill.github.io/flex
