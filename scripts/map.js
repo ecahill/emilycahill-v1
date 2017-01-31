@@ -81,4 +81,11 @@
             zoom: 8,
             title: 'Chinandega, Nicaragua',
             html: '<div><h3 style="font-family:verdana, font-size:160%, text-transform:capitalize">Chinandega, Nicaragua</h3></div>'
+          },
+          {
+            lat: 30.26,
+            lon: -97.74,
+            zoom: 8,
+            title: 'Austin, Texas',
+            html: '<div><h3 style="font-family:verdana, font-size:160%, text-transform:capitalize">Austin, Texas</h3></div>'     
           }];
